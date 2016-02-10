@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	sass "sepia/sep/gonzo/scss/internal/libsass"
+	sass "github.com/yourheropaul/gonzo-scss/internal/libsass"
 
 	"github.com/omeid/gonzo"
 	"github.com/omeid/gonzo/context"
